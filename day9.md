@@ -2,7 +2,7 @@
 
 ### 单文件内更高效的移动 
 
-## easyMotion
+#### easyMotion
 
 开启easyMotion
 
@@ -11,7 +11,7 @@
 "vim.useSystemClipboard": true,
 ```
 
-### 常用命令
+#### 常用命令
 ```
 // 常用命令
 <leader><leader> + w: 从当前光标开始向下查找所有单词的开头
@@ -30,14 +30,14 @@
 <leader><leader><leader> + j: 全局查找所有匹配驼峰,_,#格式的单词
 ```
 
-## sneak
+#### sneak
 
 `f`功能的扩展,利用`sneak`代替`f`功能
 功能其实类似于/功能,但是用`sneak`会省一步回车的操作
 
 **配置完成后会将搜索操作在各个模式下进行统一**
 
-### 开启以及配置
+#### 开启以及配置
 
 ```json
 "vim.sneak": true,
