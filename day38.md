@@ -1,10 +1,10 @@
-## 第三十七天
+## 第三十八天
 
 ### iterm
 
 #### 分屏
 
-- 左右: `command + b`
+- 左右: `command + d`
 - 上下: `command + shift +d`
 - 切换: `command + option + 方向键` 或 `command + [/]`
 - 调整窗口: `ctrl + command + 方向键`
