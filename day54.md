@@ -1,4 +1,4 @@
-## 第五十三天
+## 第五十四天
 
 ### Obsidian - 开启 vim 模式
 
@@ -10,7 +10,6 @@
 
 - 配置方式在[官网](https://github.com/esm7/obsidian-vimrc-support)
 
-- 查看 ob 所有内置命令: :obcommand 会打开一个控制台
+- 查看 ob 所有内置命令: :obcommand 后 `cmd + option + i` 会打开一个控制台
 
 - 使用<space>自定义命令，类似 vscode 中的 space 方法
-
